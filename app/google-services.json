@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687117841858",
+    "project_id": "qrscheduler-b5572",
+    "storage_bucket": "qrscheduler-b5572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687117841858:android:fce01c2a36594b1da0925b",
+        "android_client_info": {
+          "package_name": "com.app.qrscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687117841858-e9p8g1pdeg32jljvqkv3h8rv72df3fos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4bajokOa5nDz2_OJTf5X0Shg9pkN99aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687117841858-e9p8g1pdeg32jljvqkv3h8rv72df3fos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
